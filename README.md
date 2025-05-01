@@ -1,4 +1,4 @@
-![Banner Mauricio Pucheta](https://github.com/mauripucheta1/mauripucheta1/raw/main/banner.png)
+![Banner Mauricio Pucheta](https://github.com/mauripucheta1/mauripucheta1/raw/main/Banner.png)
 
 # Hola, soy Mauricio Nahuel Pucheta 👋
 
