@@ -1,3 +1,5 @@
+![Banner Mauricio Pucheta](https://github.com/mauripucheta1/mauripucheta1/raw/main/banner.png)
+
 # Hola, soy Mauricio Nahuel Pucheta 👋
 
 ## 👨‍💻 Sobre mí
