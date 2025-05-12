@@ -18,9 +18,9 @@ Soy desarrollador web junior con experiencia en FrontEnd y BackEnd, apostando al
 - Sitio Web: [Mauricio Pucheta Website](https://portfoliomauriciopucheta.netlify.app/)
 
 ## 🌍 Habilidades
-- **Frontend**: HTML, CSS, TailwindCSS, JavaScript, Astro, Cors.
+- **Frontend**: HTML, CSS, Tailwind, JavaScript (ES6+), Astro, Cors.
 - **Backend**: Node.js, Express y Firebase.
-- **Bases de datos**: PostgreSQL.
+- **Bases de datos**: PostgreSQL y SQL Server.
 - **Otros**: Python.
 - **Librerias**: Axios, React, JWT, Bcrypt, Dotenv y Django.
 
