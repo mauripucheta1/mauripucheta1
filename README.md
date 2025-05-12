@@ -14,7 +14,7 @@ Soy desarrollador web junior con experiencia en FrontEnd y BackEnd, apostando al
   
 ## 📫 ¿Cómo contactarme?
 - LinkedIn: [Mauricio Pacheta](https://www.linkedin.com/in/mauriciopucheta20)
-- Email: [mnp.softdev@gmail.com](mailto:mauriciopucheta21@gmail.com)
+- Email: [mauriciopucheta21@gmail.com](mailto:mauriciopucheta21@gmail.com)
 - Sitio Web: [Mauricio Pucheta Website](https://portfoliomauriciopucheta.netlify.app/)
 
 ## 🌍 Habilidades
