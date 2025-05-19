@@ -13,7 +13,7 @@ Soy desarrollador web junior con experiencia en FrontEnd y BackEnd, apostando al
 - Proyecto Facultad: Este es un sitio wb que desarrollé para una empresa de indumentaria: (https://github.com/mauripucheta1/JacanaWeb)
   
 ## 📫 ¿Cómo contactarme?
-- LinkedIn: [Mauricio Pacheta](https://www.linkedin.com/in/mauriciopucheta20)
+- LinkedIn: [Mauricio Pucheta](https://www.linkedin.com/in/mauriciopucheta20)
 - Email: [mauriciopucheta21@gmail.com](mailto:mauriciopucheta21@gmail.com)
 - Sitio Web: [Mauricio Pucheta Website](https://portfoliomauriciopucheta.netlify.app/)
 
