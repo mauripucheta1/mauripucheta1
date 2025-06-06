@@ -3,10 +3,10 @@
 # Hola, soy Mauricio Nahuel Pucheta 👋
 
 ## 👨‍💻 Sobre mí
-Soy desarrollador web junior con experiencia en FrontEnd y BackEnd, apostando al constante aprendizaje. Me apasiona crear aplicaciones interactivas y escalables.
+Soy desarrollador fullstack junior con experiencia en FrontEnd y BackEnd, apostando al constante aprendizaje. Me apasiona crear aplicaciones interactivas y escalables.
 
 - 🚀 Actualmente trabajando con tecnologías como **Astro**, **Node.js**, **Tailwind CSS** y **JavaScript**.
-- 🌱 Busco seguir mejorando mis habilidades en **TypeScript**, **React** y **Bases de Datos**.
+- 🌱 Busco seguir mejorando mis habilidades en **Vue**, **Svelte**, **React** y **Bases de Datos**.
 - 💬 Estoy disponible para trabajar en proyectos de código abierto, trabajos freelance o entorno empresarial.
   
 ## 💻 Mis Proyectos:
@@ -18,11 +18,12 @@ Soy desarrollador web junior con experiencia en FrontEnd y BackEnd, apostando al
 - Sitio Web: [Mauricio Pucheta Website](https://portfoliomauriciopucheta.netlify.app/)
 
 ## 🌍 Habilidades
-- **Frontend**: HTML, CSS, Tailwind, JavaScript (ES6+), Astro, Cors.
-- **Backend**: Node.js, Express y Firebase.
-- **Bases de datos**: PostgreSQL y SQL Server.
+- **Frontend**: HTML, CSS y JavaScript (ES6+).
+- **Backend**: Node.js (CommonJS - ES Modules), Express, npm (npx) y conocimientos en Arquitectura de Capas.
+- **Bases de datos**: PostgreSQL(PgAdmin4) y SQL Server(Workbench).
 - **Otros**: Python.
-- **Librerias**: Axios, React, JWT, Bcrypt, Dotenv y Django.
+- **Librerias / Dependencias / Frameworks**: Astro, Cors, Axios, Typescript, JWT, Bcrypt, Dotenv, Django y FastAPI.
+- **Cloud**: AWS, Netlify, Vercel, Railway, Firebase Storage y Cloudinary.
 
  ## 🔍 Curiosidad
  - **UX / UI**: Sumado al desarrollo, en mis tiempos libres, me gusta diseñar empleando Figma, ya sea interfaces de sitios webs, logos, wireframes o flyers.
