@@ -10,6 +10,7 @@ Soy desarrollador fullstack junior con experiencia en FrontEnd y BackEnd, aposta
 - 💬 Estoy disponible para trabajar en proyectos de código abierto, trabajos freelance o entorno empresarial.
   
 ## 💻 Mis Proyectos:
+- Proyecto StartUp: Esta es una pequeña startup desarrollada por mí, basada en sistemas e-commerce: click-shop.ar
 - Proyecto Facultad: Este es un sitio wb que desarrollé para una empresa de indumentaria: (https://github.com/mauripucheta1/JacanaWeb)
   
 ## 📫 ¿Cómo contactarme?
