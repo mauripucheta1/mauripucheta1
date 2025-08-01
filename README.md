@@ -19,10 +19,10 @@ Soy desarrollador fullstack junior con experiencia en FrontEnd y BackEnd, aposta
 
 ## 🌍 Habilidades
 - **Frontend**: HTML, CSS y JavaScript (ES6+).
-- **Backend**: Node.js (CommonJS - ES Modules), Express, npm (npx) y conocimientos en Arquitectura de Capas.
+- **Backend**: Node.js, Express, FastAPI, Django y conocimientos en Arquitectura de Capas.
 - **Bases de datos**: PostgreSQL(PgAdmin4) y SQL Server(Workbench).
 - **Otros**: Python.
-- **Librerias / Dependencias / Frameworks**: Astro, Cors, Axios, Typescript, JWT, Bcrypt, Dotenv, Django y FastAPI.
+- **Librerias / Dependencias / Frameworks**: Astro, Cors, Axios, Typescript, React, JWT, Bcryp y Dotenv.
 - **Cloud**: AWS, Netlify, Vercel, Railway, Firebase Storage y Cloudinary.
 
  ## 🔍 Curiosidad
