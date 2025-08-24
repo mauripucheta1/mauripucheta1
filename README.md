@@ -16,7 +16,7 @@ Soy desarrollador fullstack junior con experiencia en FrontEnd y BackEnd, aposta
 ## 📫 ¿Cómo contactarme?
 - LinkedIn: [Mauricio Pucheta](https://www.linkedin.com/in/mauriciopucheta20)
 - Email: [mauriciopucheta21@gmail.com](mailto:mauriciopucheta21@gmail.com)
-- Sitio Web: [Mauricio Pucheta Website](https://portfoliomauriciopucheta.netlify.app/)
+- Sitio Web: [Mauricio Pucheta Website](https://mauriciopucheta.com)
 
 ## 🌍 Habilidades
 - **Frontend**: HTML, CSS y JavaScript (ES6+).
