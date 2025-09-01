@@ -12,8 +12,8 @@ Soy desarrollador fullstack junior con experiencia en FrontEnd y BackEnd, aposta
 ## 💻 Mis Proyectos:
 - Proyecto StartUp: Esta es una pequeña startup desarrollada por mí, basada en sistemas e-commerce: (https://click-shop.ar).
 (https://distribuidoralorenzatti.click-shop.ar) 
-(resilencias.click-shop.ar)
-(fr.click-shop.ar)
+(https://resilencias.click-shop.ar)
+(https://fr.click-shop.ar)
 - Proyecto Facultad: Este es un sitio wb que desarrollé para una empresa de indumentaria: (https://github.com/mauripucheta1/JacanaWeb)
   
 ## 📫 ¿Cómo contactarme?
