@@ -28,3 +28,11 @@ Soy desarrollador fullstack junior con experiencia en FrontEnd y BackEnd, aposta
 
  ## 🔍 Curiosidad
  - **UX / UI**: Sumado al desarrollo, en mis tiempos libres, me gusta diseñar empleando Figma, ya sea interfaces de sitios webs, logos, wireframes o flyers.
+
+<div align="center">
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mauripucheta1&show_icons=true&theme=tokyonight)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mauripucheta1&layout=compact&theme=tokyonight)
+
+</div>
+
