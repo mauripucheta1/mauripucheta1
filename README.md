@@ -5,8 +5,8 @@
 ## 👨‍💻 Sobre mí
 Soy desarrollador fullstack junior con experiencia en FrontEnd y BackEnd, apostando al constante aprendizaje. Me apasiona crear aplicaciones interactivas y escalables.
 
-- 🚀 Actualmente trabajando con tecnologías como **Astro**, **Node.js**, **Tailwind CSS** y **JavaScript**.
-- 🌱 Busco seguir mejorando mis habilidades en **Vue**, **Svelte**, **React** y **Bases de Datos**.
+- 🚀 Actualmente trabajando con tecnologías como **Astro**, **Vite**, **Node.js**, **Tailwind CSS**, **JavaScript**, **React**, **Next.js** y **Node.js**.
+- 🌱 Busco seguir mejorando mis habilidades en **Vue**, **Svelte** y **Bases de Datos**.
 - 💬 Estoy disponible para trabajar en proyectos de código abierto, trabajos freelance o entorno empresarial.
   
 ## 💻 Mis Proyectos:
@@ -23,8 +23,8 @@ Soy desarrollador fullstack junior con experiencia en FrontEnd y BackEnd, aposta
 - **Backend**: Node.js, Express, FastAPI, Django y conocimientos en Arquitectura de Capas.
 - **Bases de datos**: PostgreSQL(PgAdmin4) y SQL Server(Workbench).
 - **Otros**: Python.
-- **Librerias / Dependencias / Frameworks**: Astro, Cors, Axios, Typescript, React, JWT, Bcryp y Dotenv.
-- **Cloud**: AWS, Netlify, Vercel, Railway, Firebase Storage y Cloudinary.
+- **Librerias / Dependencias / Frameworks**: Astro, Cors, Axios, Typescript, React.js, Next.js, JWT, Bcrypt y Dotenv.
+- **Cloud**: Netlify, Vercel, Railway y Cloudinary.
 
  ## 🔍 Curiosidad
  - **UX / UI**: Sumado al desarrollo, en mis tiempos libres, me gusta diseñar empleando Figma, ya sea interfaces de sitios webs, logos, wireframes o flyers.
